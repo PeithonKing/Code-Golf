@@ -1,6 +1,2 @@
-file = r"C:\Users\amukh\Desktop\Code Golf\B. Entrance Exam\entrance exam.py"
-
-with open(file) as f:
-    a = f.read()
-
-print(len(a))
+file=r"C. Appy\appy2.py"
+with open(file) as f:print(len(f.read()))
